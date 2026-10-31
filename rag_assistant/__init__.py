@@ -1,0 +1,2 @@
+"""Document RAG assistant."""
+
